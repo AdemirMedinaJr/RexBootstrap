@@ -1,0 +1,25 @@
+.fundo {
+    background: url(../img/puppy2.jpg);
+    background-size: cover;
+    min-height: 550px; 
+    position: relative;
+  }
+  
+  .fundo2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .navbar {
+    box-shadow: 2px 2px 5px teal;
+    opacity: 0.9;
+    margin-bottom: 5px;
+  }
+
+  .bg-fases {
+    background:lightgray;
+  }
+
+  
+  
